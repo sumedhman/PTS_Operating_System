@@ -16,7 +16,7 @@
      * **Chapter 13 (Secondary Storage Structure):** Page 444
    * **Operating System Concepts (7th Edition) By Silberschatz and Peter Galvin**: https://www.academia.edu/42880390/OS_Concepts_Seventh_Edition
    * **Operating System Concepts (9th Edition) By Silberschatz and Peter Galvin**: https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2017SS%20Operating%20Systems/Abraham%20Silberschatz-Operating%20System%20Concepts%20(9th,2012_12).pdf
-   * **Operating Systems (Deitel and Deitel) (3rd edition):** https://pdfrock.com/compress-pdf-free.html
+   * **Operating Systems (Deitel and Deitel) (3rd edition):** https://kupdf.net/queue/operating-systems-deitel-3rd-edition-1-pdf_58aa0f676454a7ee1bb1e8f5_pdf?queue_id=-1&x=1693894601&z=NDkuMjQ5LjE4MS4xNTQ=
    * **Linux / Unix Study Material online:** https://rlworkman.net/howtos/rute/node1.html
    * **Run Linux Ubuntu Distributions Online:** https://www.onworks.net/os-distributions/ubuntu-based
    * **Oracle VirtualBox:** https://www.virtualbox.org/wiki/Downloads
