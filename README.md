@@ -1,6 +1,6 @@
 # PTS_Operating_System
 
-* **GitHub Link:** https://github.com/toarnabtrainer/Operating_System or http://tinyurl.com/2p9byjdj
+* **GitHub Link:** https://github.com/toarnabtrainer/PTS_Operating_System or http://tinyurl.com/2p9byjdj
 
 * **Important URLs:**
    * **Operating System Concepts (5th Edition) By Silberschatz and Peter Galvin**: https://www.academia.edu/42880390/OS_Concepts_Seventh_Edition
