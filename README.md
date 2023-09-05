@@ -19,7 +19,15 @@
    * **Operating Systems (Deitel and Deitel) (3rd edition):** https://pdfrock.com/compress-pdf-free.html
    * **Linux / Unix Study Material online:** https://rlworkman.net/howtos/rute/node1.html
    * **Run Linux Ubuntu Distributions Online:** https://www.onworks.net/os-distributions/ubuntu-based
+   * **Oracle VirtualBox:** https://www.virtualbox.org/wiki/Downloads
+   * **Installing VirtualBox and Ubuntu ISO and Configuring:** https://www.youtube.com/watch?v=Rag4LDoBUC0
    * **NotePad.PW Instance:** https://notepad.pw/bpLgGkjRl9MeljJ19ct2 or https://tinyurl.com/37f73pry
+   <br>
+   
+   * **Some Important Commands on Ubuntu:**
+       * sudo apt-get update
+       * sudo apt-get upgrade
+       * sudo apt install gcc
 <hr>
 
 ## Process State Transition Diagram:
