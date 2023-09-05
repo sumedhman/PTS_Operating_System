@@ -19,6 +19,7 @@
    * **Operating Systems (Deitel and Deitel) (3rd edition):** https://kupdf.net/queue/operating-systems-deitel-3rd-edition-1-pdf_58aa0f676454a7ee1bb1e8f5_pdf?queue_id=-1&x=1693894601&z=NDkuMjQ5LjE4MS4xNTQ=
    * **Linux / Unix Study Material online:** https://rlworkman.net/howtos/rute/node1.html
    * **Run Linux Ubuntu Distributions Online:** https://www.onworks.net/os-distributions/ubuntu-based
+   * **JSLinux - Run Linux or other Operating Systems in your browser!:** https://bellard.org/jslinux/
    * **Oracle VirtualBox:** https://www.virtualbox.org/wiki/Downloads
    * **Installing VirtualBox and Ubuntu ISO and Configuring:** https://www.youtube.com/watch?v=Rag4LDoBUC0
    * **NotePad.PW Instance:** https://notepad.pw/bpLgGkjRl9MeljJ19ct2 or https://tinyurl.com/37f73pry
