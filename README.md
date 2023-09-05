@@ -1,7 +1,7 @@
 # PTS_Operating_System
 
 * **GitHub Link:** https://github.com/toarnabtrainer/Operating_System or http://tinyurl.com/2p9byjdj
-
+* **Oracle Box - Ubuntu 18.04.6 Instance:** arnab / bigdata
 * **Important URLs:**
    * **Operating System Concepts (5th Edition) By Silberschatz and Peter GALVIN**: https://www.academia.edu/42880390/OS_Concepts_Seventh_Edition
      * **Chapter 4 (Process Management):** Page 102
