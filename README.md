@@ -3,7 +3,7 @@
 * **GitHub Link:** https://github.com/toarnabtrainer/Operating_System or http://tinyurl.com/2p9byjdj
 
 * **Important URLs:**
-   * **Operating System Concepts (5th Edition) By Silberschatz and Peter GALVIN**: https://www.academia.edu/42880390/OS_Concepts_Seventh_Edition
+   * **Operating System Concepts (5th Edition) By Silberschatz and Peter Galvin**: https://www.academia.edu/42880390/OS_Concepts_Seventh_Edition
      * **Chapter 4 (Process Management):** Page 102
      * **Chapter 5 (CPU Scheduling):** Page 136
      * **Chapter 6 (Process Synchronization):** Page 168
@@ -14,8 +14,8 @@
      * **Chapter 11 (File System Implementation):** Page 382
      * **Chapter 12 (I/O Systems):** Page 410
      * **Chapter 13 (Secondary Storage Structure):** Page 444
-   * **Operating System Concepts (7th Edition) By Silberschatz and Peter GALVIN**: https://www.academia.edu/42880390/OS_Concepts_Seventh_Edition
-   * **Operating System Concepts (9th Edition) By Silberschatz and Peter GALVIN**: https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2017SS%20Operating%20Systems/Abraham%20Silberschatz-Operating%20System%20Concepts%20(9th,2012_12).pdf
+   * **Operating System Concepts (7th Edition) By Silberschatz and Peter Galvin**: https://www.academia.edu/42880390/OS_Concepts_Seventh_Edition
+   * **Operating System Concepts (9th Edition) By Silberschatz and Peter Galvin**: https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2017SS%20Operating%20Systems/Abraham%20Silberschatz-Operating%20System%20Concepts%20(9th,2012_12).pdf
    * **Operating Systems (Deitel and Deitel) (3rd edition):** https://pdfrock.com/compress-pdf-free.html
    * **Linux / Unix Study Material online:** https://rlworkman.net/howtos/rute/node1.html
    * **Run Linux Ubuntu Distributions Online:** https://www.onworks.net/os-distributions/ubuntu-based
