@@ -3,7 +3,7 @@
 * **GitHub Link:** https://github.com/toarnabtrainer/PTS_Operating_System or http://tinyurl.com/2p9byjdj
 
 * **Important URLs:**
-   * **Operating System Concepts (5th Edition) By Silberschatz and Peter Galvin**: https://www.academia.edu/42880390/OS_Concepts_Seventh_Edition
+   * **Operating System Concepts (5th Edition) By Silberschatz and Peter Galvin**: https://www.academia.edu/7727578/Operating_System_Concepts_5th_ed_BY_GALVIN
      * **Chapter 4 (Process Management):** Page 102
      * **Chapter 5 (CPU Scheduling):** Page 136
      * **Chapter 6 (Process Synchronization):** Page 168
