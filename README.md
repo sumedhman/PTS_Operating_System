@@ -19,3 +19,8 @@
    * **Linux / Unix Study Material online:** https://rlworkman.net/howtos/rute/node1.html
    * **Run Linux Ubuntu Distributions Online:** https://www.onworks.net/os-distributions/ubuntu-based
    * **NotePad.PW Instance:** https://notepad.pw/bpLgGkjRl9MeljJ19ct2 or https://tinyurl.com/37f73pry
+<hr>
+
+## Process State Transition Diagram:
+![image](https://github.com/toarnabtrainer/Operating_System/assets/111301975/229d028d-220d-474c-98a6-8109c3c8ba20)
+<hr>
