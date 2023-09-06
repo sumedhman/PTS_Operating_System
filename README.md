@@ -34,6 +34,7 @@
 <hr>
 
 <pre>
+Algorithm to find the first n terms of the Fibonacci Series
 // n = 8
 // 0, 1, 1, 2, 3, 5, 8, 13
 input n
