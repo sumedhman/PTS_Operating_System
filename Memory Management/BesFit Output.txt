@@ -11,22 +11,6 @@ Memory Status:
 1. Allocate memory
 2. Exit
 Enter your choice: 1
-Enter the size of memory block to allocate: 150
-
-Memory Status:
--------------------------------------------------------------------
-| Block No. | Start      | End        | Size       | Allocated  |
--------------------------------------------------------------------
-| 1         | 0          | 199        | 200        | Yes        |
-| 2         | 200        | 349        | 150        | Yes        |
-| 3         | 350        | 499        | 150        | No         |
-| 4         | 500        | 699        | 200        | Yes        |
-| 5         | 700        | 999        | 300        | No         |
--------------------------------------------------------------------
-
-1. Allocate memory
-2. Exit
-Enter your choice: 1
 Enter the size of memory block to allocate: 200
 
 Memory Status:
@@ -34,35 +18,64 @@ Memory Status:
 | Block No. | Start      | End        | Size       | Allocated  |
 -------------------------------------------------------------------
 | 1         | 0          | 199        | 200        | Yes        |
-| 2         | 200        | 349        | 150        | Yes        |
-| 3         | 350        | 499        | 150        | No         |
+| 2         | 200        | 399        | 200        | Yes        |
+| 3         | 400        | 499        | 100        | No         |
 | 4         | 500        | 699        | 200        | Yes        |
-| 5         | 700        | 899        | 200        | Yes        |
-| 6         | 900        | 999        | 100        | No         |
+| 5         | 700        | 999        | 300        | No         |
 -------------------------------------------------------------------
 
 1. Allocate memory
 2. Exit
 Enter your choice: 1
-Enter the size of memory block to allocate: 300
-Memory allocation failed for size 300.
-
-1. Allocate memory
-2. Exit
-Enter your choice: 1
-Enter the size of memory block to allocate: 60
+Enter the size of memory block to allocate: 250
 
 Memory Status:
 -------------------------------------------------------------------
 | Block No. | Start      | End        | Size       | Allocated  |
 -------------------------------------------------------------------
 | 1         | 0          | 199        | 200        | Yes        |
-| 2         | 200        | 349        | 150        | Yes        |
-| 3         | 350        | 409        | 60         | Yes        |
-| 4         | 410        | 499        | 90         | No         |
+| 2         | 200        | 399        | 200        | Yes        |
+| 3         | 400        | 499        | 100        | No         |
+| 4         | 500        | 699        | 200        | Yes        |
+| 5         | 700        | 949        | 250        | Yes        |
+| 6         | 950        | 999        | 50         | No         |
+-------------------------------------------------------------------
+
+1. Allocate memory
+2. Exit
+Enter your choice: 1
+Enter the size of memory block to allocate: 40
+
+Memory Status:
+-------------------------------------------------------------------
+| Block No. | Start      | End        | Size       | Allocated  |
+-------------------------------------------------------------------
+| 1         | 0          | 199        | 200        | Yes        |
+| 2         | 200        | 399        | 200        | Yes        |
+| 3         | 400        | 499        | 100        | No         |
+| 4         | 500        | 699        | 200        | Yes        |
+| 5         | 700        | 949        | 250        | Yes        |
+| 6         | 950        | 989        | 40         | Yes        |
+| 7         | 990        | 999        | 10         | No         |
+-------------------------------------------------------------------
+
+1. Allocate memory
+2. Exit
+Enter your choice: 1
+Enter the size of memory block to allocate: 40
+
+Memory Status:
+-------------------------------------------------------------------
+| Block No. | Start      | End        | Size       | Allocated  |
+-------------------------------------------------------------------
+| 1         | 0          | 199        | 200        | Yes        |
+| 2         | 200        | 399        | 200        | Yes        |
+| 3         | 400        | 439        | 40         | Yes        |
+| 4         | 440        | 499        | 60         | No         |
 | 5         | 500        | 699        | 200        | Yes        |
-| 6         | 700        | 899        | 200        | Yes        |
-| 7         | 900        | 999        | 100        | No         |
+| 6         | 700        | 949        | 250        | Yes        |
+| 7         | 950        | 989        | 40         | Yes        |
+| 8         | 990        | 999        | 10         | No         |
 -------------------------------------------------------------------
 
 1. Allocate memory
