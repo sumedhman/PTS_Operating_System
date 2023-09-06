@@ -33,6 +33,27 @@
        * sudo apt install gcc
 <hr>
 
+<pre>
+// n = 8
+// 0, 1, 1, 2, 3, 5, 8, 13
+input n
+f1 = 0
+f2 = 1
+if (n >= 1) then print f1
+if (n >= 2) then print f2
+i = 3
+while (i <= n)
+   f3 = f1 + f2
+   print f3
+   f1 = f2
+   f2 = f3
+   i = i + 1
+end while
+print "END"  
+</pre>
+
+<hr>
+
 ## Process State Transition Diagram:
 ![image](https://github.com/toarnabtrainer/Operating_System/assets/111301975/229d028d-220d-474c-98a6-8109c3c8ba20)
 <hr>
