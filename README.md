@@ -60,3 +60,8 @@ print "END"
 ## Process State Transition Diagram:
 ![image](https://github.com/toarnabtrainer/Operating_System/assets/111301975/229d028d-220d-474c-98a6-8109c3c8ba20)
 <hr>
+
+## Sample Program sets on Linux System using ANSI C:
+![image](https://github.com/toarnabtrainer/Operating_System/assets/111301975/a4777eea-4212-49ab-87a9-2289bad6bbe3)
+
+<hr>
