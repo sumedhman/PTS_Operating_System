@@ -24,6 +24,7 @@
    * **Oracle VirtualBox:** https://www.virtualbox.org/wiki/Downloads
    * **Installing VirtualBox and Ubuntu ISO and Configuring:** https://www.youtube.com/watch?v=Rag4LDoBUC0
    * **NotePad.PW Instance:** https://notepad.pw/bpLgGkjRl9MeljJ19ct2 or https://tinyurl.com/37f73pry
+   * **Instead of gedit editor we can issue command:** use sudo snap install atom --classic
    <br>
    
    * **Some Important Commands on Ubuntu:**
