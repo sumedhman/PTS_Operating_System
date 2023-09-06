@@ -28,6 +28,8 @@
    <br>
    
    * **Some Important Commands on Ubuntu:**
+       * sudo apt --fix-broken install
+       * sudo apt -f install 
        * sudo apt-get update
        * sudo apt-get upgrade
        * sudo apt install gcc
