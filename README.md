@@ -55,6 +55,16 @@ end while
 print "END"  
 </pre>
 
+<pre>
+Important Topics Covered:
+Process Definition
+Process State Transitions
+CPU Scheduling: SJF etc.
+Process Synchronization
+Memory Allocations: FF, BF, WF, NF
+Shell programs
+System Programs: 1, 2, 3, 4, 5.
+</pre>
 <hr>
 
 ## Process State Transition Diagram:
