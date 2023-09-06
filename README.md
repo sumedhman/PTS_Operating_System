@@ -28,7 +28,7 @@
    <br>
    
    * **Some Important Commands on Ubuntu:**
-       * sudo apt --fix-broken install
+       * sudo apt --fix-broken install or sudo apt --fix-missing install
        * sudo apt -f install 
        * sudo apt-get update
        * sudo apt-get upgrade
